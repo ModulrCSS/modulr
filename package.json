@@ -1,0 +1,33 @@
+{
+  "name": "@modulr/modulr",
+  "version": "1.0.0",
+  "description": "A fast and modular approach to building powerful web and mobile interfaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModulrCSS/modulr.git"
+  },
+  "keywords": [
+    "frontend",
+    "css3",
+    "modulr",
+    "framework",
+    "layout",
+    "flex",
+    "button",
+    "input",
+    "grid",
+    "boostrap",
+    "components",
+    "web"
+  ],
+  "author": "Alan Museljic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ModulrCSS/modulr/issues"
+  },
+  "homepage": "https://github.com/ModulrCSS/modulr#readme"
+}
